@@ -1,0 +1,13 @@
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(155, 146, 95);
+    text-align: center;
+  }
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
